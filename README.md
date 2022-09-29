@@ -1,1 +1,1 @@
-# odin-recipes
+Recipe website using only html.
